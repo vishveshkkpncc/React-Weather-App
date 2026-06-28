@@ -8,7 +8,7 @@ A simple weather application built with HTML, CSS, and JavaScript.
 - Real-time weather data
 
 ## 🎥 Demo Video
-[Watch Demo](https://youtu.be/...](https://youtu.be/08zTzr8a1Y0))
+[Watch Demo](https://youtu.be/08zTzr8a1Y0)
 
 ## 📸 Screenshots
 <img width="1366" height="768" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/1e6ab8e0-d24a-441a-a900-c7fca10327f4" />
