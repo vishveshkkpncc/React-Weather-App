@@ -1,6 +1,6 @@
 # Weather App
 
-A simple weather application built with HTML, CSS, and JavaScript.
+A simple weather application built with HTML, CSS, JavaScript and ReactJS.
 
 ## Features
 - Search weather by city
